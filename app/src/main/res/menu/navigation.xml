@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_ijkPLayer"
+        android:icon="@drawable/ijk"
+        android:title="@string/ijkPlayer" />
+
+    <item
+        android:id="@+id/navigation_FunVideo"
+        android:icon="@drawable/fun"
+        android:title="@string/FunVideo" />
+
+    <item
+        android:id="@+id/navigation_Smarter"
+        android:icon="@drawable/smarter"
+        android:title="@string/Smarter" />
+
+</menu>
